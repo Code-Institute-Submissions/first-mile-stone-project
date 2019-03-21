@@ -1,4 +1,4 @@
-# Your Project's Name
+# First mile stone project
 
 One or two paragraphs providing an overview of your project.
 
@@ -74,7 +74,7 @@ In addition, if it is not obvious, you should also describe how to run your code
 - The text for section Y was copied from the [Wikipedia article Z](https://en.wikipedia.org/wiki/Z)
 
 ### Media
-- bootstrap template: (https://startbootstrap.com/themes/grayscale/)
+- bootstrap template: (https://startbootstrap.com/themes/)
 - The photos used in this site were obtained from (https://github.com/Code-Institute-Org/project-assets)
 
 ### Acknowledgements
