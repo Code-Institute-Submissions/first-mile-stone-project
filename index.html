@@ -71,11 +71,12 @@
       <div class="row">
         <div class="col-lg-8 mx-auto">
           <h2 class="text-white mb-4">About us</h2>
-          <p class="text-white-50">We are a 1960’s rock band and have around 50 years experience of performing live at numerous events around the world
-            <a href="assets/video/TheMonkees.mp4" target="_blank">click here to see a preview</a></p>
+          <p class="text-white-50">We are a 1960’s rock band and have around 50 years experience of performing live at numerous events around the world </p>
+            <video width="320" height="180" controls>
+              <source src="assets/video/TheMonkees.mp4" type="video/mp4">
+             </video>
         </div>
       </div>
-      <img src="assets/img/cover2.png" class="assets/img-fluid" alt="">
     </div>
     </sect <!-- Projects Section -->
     <section id="projects" class="projects-section bg-light">
@@ -104,21 +105,18 @@
               <div class="d-flex h-100">
                 <div class="project-text w-100 my-auto text-center text-lg-left">
                   <h4 class="text-white">Are songs</h4>
-                  <hr class="d-none d-lg-block mb-0 ml-0">
                   <ul class="Song-list">
                     <li class="Song-list">
-                      <a href="assets/audio/Clarksville.mp3" target="_blank">Clarksville</a>
+                      <audio controls><source src="assets/audio/Clarksville.mp3" type="audio/mpeg"><p>Clarksville</p></audio>
                     </li>
                     <li class="Song-list">
-                      <a href="assets/audio/DaydreamBeliever.mp3" target="_blank">Day dream Believer</a>
+                      <audio controls><source src="assets/audio/ImABeliever.mp3" type="audio/mpeg">Im A Believer</audio>
                     </li>
                     <li class="Song-list">
-                      <a href="assets/audio/ImABeliever.mp3" target="_blank">Im A Believer</a>
-                    </li>
-                    <li class="Song-list">
-                      <a href="assets/audio/SteppingStone.mp3" target="_blank">Stepping Stone</a>
+                        <audio controls><source src="assets/audio/SteppingStone.mp3" type="audio/mpeg">Stepping Stone</audio>
                     </li>
                   </ul>
+                  <hr class="d-none d-lg-block mb-0 ml-0">
                 </div>
               </div>
             </div>
@@ -248,10 +246,6 @@
       </div>
     </footer>
 
-    <!-- Button trigger modal -->
-    <button type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModalCenter">
-  Launch demo modal
-</button>
 
     <!-- Modal -->
     <div class="modal fade" id="signUpModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
