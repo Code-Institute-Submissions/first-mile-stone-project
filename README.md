@@ -16,10 +16,16 @@ https://jshaakmat.github.io/first-mile-stone-project/
 
 ## UX
  
-First I drafted frame by pen and paper and and afterwards I used wireframe app.
-see github assets/wireframes
+The purpose of this website is to be easy accessible and well-arranged 
+so that fans become acquainted with the band via this website.
 
-After the design was made I used a bootstrap template greyscale color scheme because the design is elementary and accessible
+The about section of the page gives is a video you the impression of the performance of the band.
+
+In the project section contains a selections of songs 
+
+In the content section you contact section you can subscribe to be informed about the activities of the band 
+
+You can also book them for parties and weddings 
 
 
 ## Features

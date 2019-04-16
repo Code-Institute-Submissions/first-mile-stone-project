@@ -143,6 +143,7 @@ audio {
     padding: 0;
   }
   .masthead h1 {
+    color: white;
     font-size: 6.5rem;
     line-height: 6.5rem;
     letter-spacing: 0.8rem;
